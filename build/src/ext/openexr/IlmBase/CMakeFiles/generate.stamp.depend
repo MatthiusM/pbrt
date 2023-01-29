@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Users/mmlen/Documents/cmake/share/cmake-3.25/Modules/CPack.cmake
+C:/Users/mmlen/Documents/cmake/share/cmake-3.25/Modules/CPackComponent.cmake
+C:/Users/mmlen/Documents/cmake/share/cmake-3.25/Templates/CPackConfig.cmake.in
+E:/GitHub/pbrt-v3/src/ext/openexr/IlmBase/CMakeLists.txt

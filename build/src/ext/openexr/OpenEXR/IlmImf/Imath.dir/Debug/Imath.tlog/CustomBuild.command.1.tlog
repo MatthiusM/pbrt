@@ -1,0 +1,10 @@
+^E:\GITHUB\PBRT-V3\SRC\EXT\OPENEXR\ILMBASE\IMATH\CMAKELISTS.TXT
+setlocal
+C:\Users\mmlen\Documents\cmake\bin\cmake.exe -SE:/GitHub/pbrt-v3 -BE:/GitHub/pbrt-v3/build --check-stamp-file E:/GitHub/pbrt-v3/build/src/ext/openexr/IlmBase/Imath/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

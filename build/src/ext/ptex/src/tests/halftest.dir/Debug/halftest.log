@@ -1,0 +1,4 @@
+﻿  Building Custom Rule E:/GitHub/pbrt-v3/src/ext/ptex/src/tests/CMakeLists.txt
+  halftest.cpp
+E:\GitHub\pbrt-v3\src\ext\ptex\src\tests\halftest.cpp(294,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+  halftest.vcxproj -> E:\GitHub\pbrt-v3\build\src\ext\ptex\src\tests\Debug\halftest.exe
